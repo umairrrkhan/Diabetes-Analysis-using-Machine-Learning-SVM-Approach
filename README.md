@@ -36,12 +36,6 @@ The following Python libraries are used in this project:
 ## Model Training
 - A support vector machine (SVM) model with a linear kernel is trained on the training data. SVM is chosen due to its ability to find an optimal separating hyperplane between the two classes.
 
-## IMAGES 
-
-![Graph](statistics.png)
-
-![Graph](lo.png)
-
 ## Model Evaluation
 - The performance of the model is evaluated on the test set using classification accuracy as the metric. The model achieves reasonable performance.
 
